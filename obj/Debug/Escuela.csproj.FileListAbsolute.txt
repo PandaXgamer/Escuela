@@ -1,0 +1,7 @@
+D:\Programacion\2024curso\Escuela\Escuela\bin\Debug\Escuela.exe.config
+D:\Programacion\2024curso\Escuela\Escuela\bin\Debug\Escuela.exe
+D:\Programacion\2024curso\Escuela\Escuela\bin\Debug\Escuela.pdb
+D:\Programacion\2024curso\Escuela\Escuela\obj\Debug\Escuela.csproj.AssemblyReference.cache
+D:\Programacion\2024curso\Escuela\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+D:\Programacion\2024curso\Escuela\Escuela\obj\Debug\Escuela.exe
+D:\Programacion\2024curso\Escuela\Escuela\obj\Debug\Escuela.pdb
